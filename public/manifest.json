@@ -1,0 +1,9 @@
+{
+  "name": "Groq Chat PWA",
+  "short_name": "Groq Chat",
+  "description": "AI-powered chat application using Groq",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a"
+}
